@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Muhammad Usama Chouhan.
-- 👀 I’m interested in Full stack developement and Data Science
-- 🌟 I'm currently working in .NET Core, C#, ReactJS, JavaScript
-- 🌱 MongoDB, SQL Server, React JS, .NET/Core
+<img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,docker,express,nodejs,ts,js,materialui,postman,redux,tailwind,git&perline=14" />
+
 - 📫 Reach me at https://www.linkedin.com/in/musama619/
 
